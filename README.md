@@ -1,4 +1,4 @@
-# TableOfContents
+# Table Of Contents
 
 1. The Webpage of Computational Communication Collaboratory https://github.com/socrateslab/collaboratory
 2. The Website of Computational Communication https://github.com/socrateslab/socrateslab.github.io
