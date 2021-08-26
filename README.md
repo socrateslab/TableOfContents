@@ -8,3 +8,4 @@
 6. Data & Code for the paper titled Nowcasting Based on Issue Categories https://github.com/socrateslab/cbjs
 7. Media Convergence Dataset https://github.com/socrateslab/mediaconvergence
 8. IMSDB Movie Scripts https://github.com/socrateslab/imsdb
+9. Gutenberg Fictions https://github.com/socrateslab/gutenberg-story
