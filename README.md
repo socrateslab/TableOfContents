@@ -13,3 +13,6 @@
 8. IMSDB Movie Scripts https://github.com/socrateslab/imsdb
 9. Gutenberg Fictions https://github.com/socrateslab/gutenberg-story
 10. future-employment https://github.com/socrateslab/future-employment
+
+## QAP Analysis with Python 3
+1. mrqap https://github.com/socrateslab/mrqap-python
