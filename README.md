@@ -33,5 +33,6 @@ https://github.com/socrateslab/mediaconvergence
 ## More resources
 1. QAP Analysis with Python 3 mrqap https://github.com/socrateslab/mrqap-python
 3. Building Personal Webpage https://github.com/socrateslab/page
+4. Causal Inference 101 https://github.com/socrateslab/causal101
 
 
