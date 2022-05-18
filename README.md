@@ -14,6 +14,10 @@ https://github.com/socrateslab/Peeking-Strategy
 
 https://github.com/socrateslab/future-employment
 
+## Weibo Hot Search
+
+https://github.com/socrateslab/weibo-hot-search
+
 ## Agent-based Modeling of Spiral of Silence
 
 https://github.com/socrateslab/sos
